@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[eki:home|Door43 (eki)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-eki|d43-eki repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-eki/archive/master.zip|d43-eki.zip]]
+
+**Recent Changes**
+{{changes>ns = eki}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/eki|Ethnologue data]]
+
